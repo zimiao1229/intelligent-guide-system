@@ -24,9 +24,9 @@
 	
 	Video Demo
 	Tested int the subway with fp32 model:
-	https://youtube.com/shorts/WvVo1BmimMA?feature=share
-	https://youtube.com/shorts/zI_I0yacd6Q?feature=share
+	<https://youtube.com/shorts/WvVo1BmimMA?feature=share>
+	<https://youtube.com/shorts/zI_I0yacd6Q?feature=share>
 	Tested int the subway with int8 model:
-	https://youtube.com/shorts/VvpvAt8iTDc?feature=share
+	<https://youtube.com/shorts/VvpvAt8iTDc?feature=share>
 	Tested with stickers:
-	https://youtube.com/shorts/4xVG9mlJkpo?feature=share
+	<https://youtube.com/shorts/4xVG9mlJkpo?feature=share>
